@@ -1,10 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "youtube-link-with-title-replacer",
+	"name": "YouTube Link With Title Replacer Plugin",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"minAppVersion": "1.4.0",
+	"description": "This is a plugin that replaces a YouTube link with a markdown link with the corresponding video title",
+	"author": "Daniel Ruppert",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false

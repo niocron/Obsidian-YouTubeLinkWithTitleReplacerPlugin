@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "youtube-link-with-title-replacer",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is a plugin that replaces a YouTube link with a markdown link with the corresponding video title",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
